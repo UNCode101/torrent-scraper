@@ -1,1 +1,1 @@
-name = "torrent_tracker_scraper"
+name = "torrent_scraper"
